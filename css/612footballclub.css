@@ -1,3 +1,8 @@
 
 /* #083b66 - blue */
 /* #74d14c - green */
+
+/* Modify the background color */
+.navbar-custom {
+    background-color: #083b66;
+}
